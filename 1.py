@@ -18,3 +18,6 @@ print(weights)
 weights=logRegres.stocGradAscent1(array(dataArr),labelMat)
 logRegres.plotBestFit(weights)
 print(weights)
+
+
+#
